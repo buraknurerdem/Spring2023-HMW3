@@ -2,6 +2,8 @@
 ## Spring 2022-2023
 ### Due Date: 25.03.2023 22:00
 
+## Task 1
+
 Reimplement the `bouncingballs.py` to utilize as much object oriented concept as possible. Use file `HMW2_task1.py` to write your code.
 
 1. Make sure that all data is in objects;
