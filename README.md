@@ -1,6 +1,6 @@
-# Homework 3
-
-## Task 1
+# IE 201 Homework 3
+## Spring 2022-2023
+### Due Date: 25.03.2023 22:00
 
 Reimplement the `bouncingballs.py` to utilize as much object oriented concept as possible. Use file `HMW2_task1.py` to write your code.
 
