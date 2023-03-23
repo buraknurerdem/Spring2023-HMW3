@@ -8,7 +8,7 @@ Reimplement the `bouncingballs.py` to utilize as much object oriented concept as
 
 1. Make sure that all data is in objects;
 2. Make sure that "data encapsulation" is never broken;
-3. Make sure that public interface of classes are as small as possible.  
+3. Make sure that public interface of classes are as small as possible.     
 
 (Hint: implement a `Game` class to handle game related functions. You can add more classes if you think its needed.)
 
